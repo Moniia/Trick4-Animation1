@@ -7,7 +7,7 @@
 <br></br>
 
 
-🔗 [Demo Project] (https://moniia.github.io/Trick4-Animation1/)
+🔗 [Demo Project](https://moniia.github.io/Trick4-Animation1/)
 
 👩🏻‍💻 Developed by Mona Aminian
 
