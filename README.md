@@ -1,2 +1,20 @@
 # Trick4-Animation1
- This is an anmation trick. i hope you enjoy it🧡
+ **This is an animation trick. i hope you enjoy it🧡**
+ <br></br>
+
+https://github.com/Moniia/Trick2-Playing-Card/assets/155805252/53064fc7-c14f-4909-b498-5343eb7cfef7
+
+<br></br>
+
+
+🔗 [Demo Project](https://moniia.github.io/Trick2-Playing-Card/)
+
+👩🏻‍💻 Developed by Mona Aminian
+
+📆 Created - 2024-03-15
+
+✔️ Technologies Used - Html5, Css3, Sass, Animation
+
+💥 Role - Frontend
+
+📲 How to reach me : with my [instagram](https://www.instagram.com/mona.aminian.web) and [linkedin](https://www.linkedin.com/in/mona-aminian-119427169)
